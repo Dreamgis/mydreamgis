@@ -120,8 +120,6 @@ hr {
  
 #charlas {
     background-color: #F0F5FF;
-
-    background-image: url("../img/agenda-bg.png");
     background-size: auto 220px;
     background-repeat: no-repeat;
     background-position-y: bottom;
@@ -133,7 +131,6 @@ hr {
 }
 
 .date {
-    background-image: url("../img/date-bg.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position-y: center;
@@ -382,7 +379,6 @@ ol>li:before {
 }
 
 #registerModal .modal-body {
-    background-image: url("../img/modal_bg.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position-y: bottom;
